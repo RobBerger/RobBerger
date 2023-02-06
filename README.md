@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Robert Berger
 - 👀 I’m interested in building/maintaining enterprise level software
-- 🌱 I’m currently learning TypeScript
+- 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on Bethel College Lessons/Projects
 
 <!---
