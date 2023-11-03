@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Robert Berger
 - 👀 I’m interested in building/maintaining enterprise level software
-- 🌱 I’m currently learning advanced JavaScript
+- 🌱 I’m currently doubling down on JavaScript learning the finer details that I missed the first time around
 
 
 <!---
